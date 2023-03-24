@@ -24,7 +24,7 @@ unity 2021.3.11f1c2LTS
 
 ### 机翻
 
-A rough map system for a slaughter tower has been implemented that only completes the function of generating maps.
+A rough map system for the SlaytheSpire has been implemented that only completes the function of generating maps.
 
 The fixed random seed generation method has not been implemented. 
 
