@@ -7,4 +7,6 @@ unity 2021.3.11f1c2LTS
 3D（URP）
 
 # 使用方式
+下载包即可，其余部分为源代码在包中也有
 在包中有一个 Main_MapSystem的Prefab直接拖到场景中即可。
+
