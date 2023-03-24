@@ -3,6 +3,7 @@
 
 未实现根据固定的随机种生成方式
 
+![image](https://github.com/LtGrey/SlaytheSpire-RawMapSystem/blob/main/Sample.png)
 ## 环境
 unity 2021.3.11f1c2LTS
 
